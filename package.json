@@ -1,0 +1,27 @@
+{
+  "name": "qa_finaltask",
+  "version": "1.0.0",
+  "description": "final-project-for-QA-camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthrecalde-ad/qa_finaltask.git"
+  },
+  "keywords": [
+    "automation",
+    "cypress",
+    "bootcamp"
+  ],
+  "author": "root",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruthrecalde-ad/qa_finaltask/issues"
+  },
+  "homepage": "https://github.com/ruthrecalde-ad/qa_finaltask#readme",
+  "dependencies": {
+    "cypress": "^13.8.1"
+  }
+}

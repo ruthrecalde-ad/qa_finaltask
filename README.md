@@ -8,13 +8,6 @@ This repository contains automated end-to-end tests for the login, catalog, prod
 - Product Detail Page
 - Checkout
 
-#### This automation tests were developed using:
-* Cypress package version: 13.8.1
-* Cypress binary version: 13.8.1
-* Electron version: 27.1.3
-* Bundled Node version: 18.17.1
-* Visual Studio Code: Version: 1.78.1
-
 # Table of Contents
 ## Prerequisites
 

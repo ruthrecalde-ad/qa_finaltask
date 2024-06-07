@@ -107,7 +107,5 @@ class catalog
             expect(prices).to.deep.equal(sortedPrices);
         });
     }  
-   
 }
 module.exports = new catalog();
-

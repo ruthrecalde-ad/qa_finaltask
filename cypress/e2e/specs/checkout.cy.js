@@ -24,6 +24,4 @@ describe('Checkout process', () => {
 
     cy.finishCheckout();
   });
-
-
 })

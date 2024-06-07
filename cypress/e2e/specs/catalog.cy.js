@@ -11,7 +11,6 @@ describe('Homepage', () => {
     cy.login('standard_user','secret_sauce');
     catalog.verifyHammenu();
     catalog.verifyItemsRst();
-    //catalog.verifyAboutbtn();
   })
 
   it('3- Verify Footer', () => {
@@ -48,7 +47,5 @@ describe('Homepage', () => {
     cy.login('standard_user','secret_sauce');
     cy.clickonProduct('Sauce Labs Backpack');
   })
-
-
 })
 

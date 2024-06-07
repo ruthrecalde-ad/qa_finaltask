@@ -40,7 +40,5 @@ class product
         this.elements.checkoutBtn().should('be.visible').and('not.be.disabled').and('contain.text', 'Checkout');
         this.elements.contShopBtn().click();
     }
-
-    
 }
 module.exports = new product();

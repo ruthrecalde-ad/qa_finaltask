@@ -33,8 +33,5 @@ describe('Homepage', () => {
     login.correctLogin();
     login.correctLogout();    
   })
-
-  
-
 })
 
